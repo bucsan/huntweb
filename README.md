@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+  Curso ReactJS - OmniStack
+</h3>
 
-## Available Scripts
+<p align="center">Código do quarto módulo do <a href="https://rocketseat.com.br/starter/curso-gratuito-reactjs">Starter OmniStack</a> 🚀👨🏻‍🚀</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/bucsan/huntweb" />
 
-### `yarn start`
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/bucsan/huntweb" />
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/bucsan/huntweb" />
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre">Sobre</a>
+</p>
 
-### `yarn test`
+## 🚀 Instalação e execução
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository) vai te ajudar 💖_
 
-### `yarn build`
+1. Abra o terminal do seu computador. Se estiver no Windows pode ser o CMD ou Powershell.
+2. Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
+3. Faça um clone desse repositório rodando: <br> `git clone https://github.com/bucsan/huntweb.git`;
+4. Requisitos: `NodeJs, NPM, Yarn`  instalados;
+5. Entre na pasta rodando pelo terminal: `cd huntweb`;
+6. Rode `yarn install` para instalar as dependências do projeto;
+7. Rode `yarn start` para iniciar o servidor de desenvolvimento.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🤔 Sobre
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- O que é ReactJS?
+- Criando projeto
+- O que são componentes?
+- Criando Header
+- Buscando produtos da API
+		Api utilizada para consumo: https://rocketseat-nod.herokuapp.com/api
+		Também é possível utilizar o projeto [node-api](http://https://github.com/bucsan/node-api "node-api").
+- Armazenando no estado
+- Listando produtos
+- Página anterior/próxima
+- Configurando navegação
+- Navegando pro detalhe
