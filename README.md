@@ -37,8 +37,8 @@ _ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help
 - Criando Header
 - Buscando produtos da API
 
-		Api utilizada para consumo: https://rocketseat-nod.herokuapp.com/api
-		Também é possível utilizar o projeto [node-api](http://https://github.com/bucsan/node-api "node-api").
+	Api utilizada para consumo: https://rocketseat-nod.herokuapp.com/api
+	Também é possível utilizar o projeto [node-api](https://github.com/bucsan/node-api "node-api").
 
 - Armazenando no estado
 - Listando produtos
